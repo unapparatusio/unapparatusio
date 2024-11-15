@@ -1,15 +1,25 @@
-# 👀 Who am I?
-shush i dont talk to noobs, but here is what u have to know about meh.
+# 👋 Welcome to My GitHub
 
-- 👋 Hi, I’m @unapparatusio
-- 👀 I’m interested in yo projects
-- 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: just email me on unapparatus.io@proton.me
-- 😄 Pronouns: He Him 
-- ⚡ Fun fact: i am professional
+I'm a **student coder** and **tech enthusiast** with a strong interest in **math**, **science**, and **system customization**. I focus on understanding the layers between hardware and software, building a solid technical foundation, and exploring innovative solutions.
 
-<!---
-unapparatusio/unapparatusio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Core Areas of Focus
+- **⚙️ System Customization**: Delving into **bootloaders**, **UEFI**, and **OS-level optimizations** to push system boundaries.  
+- **📊 Advanced Learning**: Constantly expanding knowledge in **mathematics**, **physics**, and **mechanics** to enhance analytical and problem-solving skills.  
+- **💻 Software Development**: Building programming skills geared toward scalable and efficient software design.
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages**: Rust, Python, C++ (proficient); JavaScript, Java (working knowledge)  
+- **Tech Interests**: Hardware-software integration, computational modeling, and optimization-focused design.
+
+---
+
+## 🤝 Connect & Collaborate
+Currently focused on expanding my skills and knowledge. I'm open to discussions on **math**, **science**, or **technology**—always looking to exchange ideas as I continue learning.
+
+---
+
+🌐 _The journey of exploration is just beginning._
